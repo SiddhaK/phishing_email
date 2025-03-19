@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+tldextract
+pickle-mixin
+imblearn
+matplotlib
+pandas
